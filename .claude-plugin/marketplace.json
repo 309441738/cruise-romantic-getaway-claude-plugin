@@ -1,0 +1,18 @@
+{
+  "name": "cruise-romantic-getaway-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "cruise-romantic-getaway 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "cruise-romantic-getaway",
+      "source": "./plugins/cruise-romantic-getaway",
+      "description": "为情侣提供浪漫邮轮之旅的精选产品，打造难忘的回忆。",
+      "version": "0.1.0"
+    }
+  ]
+}
